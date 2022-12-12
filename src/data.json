@@ -1,0 +1,5446 @@
+[
+     {
+          "name": "Anis Abdulle",
+          "email": "a.abdulle@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Gregory D. Abowd",
+          "email": "dean@coe.northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Ubiquitous computing",
+               "Software engineering"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mamoun Abu-Samaha",
+          "email": "mamoun@northeastern.edu",
+          "research_interests": [
+               "Mobility",
+               "Cybersecurity",
+               "Artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Laura Adrien",
+          "email": "l.adrien@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ioannis Agadakos",
+          "email": "i.agadakos@northeastern.edu",
+          "research_interests": [
+               "Internet of Things",
+               "System Security",
+               "Deep Learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Everaldo Marques de Aguiar Junior",
+          "email": "e.aguiar@northeastern.edu",
+          "research_interests": [
+               "Learning analytics",
+               "Computer security",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Uzair Ahmad",
+          "email": "u.ahmad@northeastern.edu\t",
+          "research_interests": [
+               "Recommender Systems",
+               "Online and Incremental learning",
+               "Reinforcement learning",
+               "Data Mining"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amal Ahmed",
+          "email": "amal@ccs.neu.edu",
+          "research_interests": [
+               "Programming languages",
+               "Correct and secure compilation",
+               "Gradual typing",
+               "Safe language interoperability"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michal Aibin",
+          "email": "m.aibin@northeastern.edu",
+          "research_interests": [
+               "Cognitive networking",
+               "Machine learning",
+               "Data analysis"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Anna Alden",
+          "email": "an.alden@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mona Ali",
+          "email": "mon.ali@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Maryam Aliakbarpour",
+          "email": "m.aliakbarpour@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Pamela Allen",
+          "email": "p.allen@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Maelynn Alley",
+          "email": "l.alley@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Omar Alonso",
+          "email": "o.alonso@northeastern.edu",
+          "research_interests": [
+               "Information retrieval"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Greg Aloupis",
+          "email": "g.aloupis@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Christopher Amato",
+          "email": "camato@ccs.neu.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Machine learning",
+               "Robotics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Silvio Amir",
+          "email": "s.amir@northeastern.edu",
+          "research_interests": [
+               "Natural language processing",
+               "Machine learning",
+               "Information retrieval",
+               "Social media analysis"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ghita Amor-Tijani",
+          "email": "ghitamor@ccs.neu.edu",
+          "research_interests": [
+               "Information retrieval",
+               "Cross-lingual information retrieval",
+               "Data mining",
+               "Databases"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kevin Amorin",
+          "email": "kamorin@ccs.neu.edu",
+          "research_interests": [
+               "Network security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jose Annunziato",
+          "email": "jga@ccs.neu.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sara Arunagiri",
+          "email": "s.arunagiri@northeastern.edu",
+          "research_interests": [
+               "Data science",
+               "Machine learning",
+               "Fault tolerance",
+               "I/O in high-performance computing systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Javed Aslam",
+          "email": "jaa@ccs.neu.edu",
+          "research_interests": [
+               "Machine learning",
+               "Information retrieval",
+               "Applications of statistics and information theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amin Assareh",
+          "email": "a.assareh@northeastern.edu",
+          "research_interests": [
+               "Machine Learning",
+               "Artificial Intelligence",
+               "Natural Language Processing (NLP)",
+               "Meta Learning",
+               "Transfer Learning",
+               "Semi-Supervised Learning",
+               "Weak Supervision"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kathleen Aubrey",
+          "email": "k.aubrey@northeastern.edu",
+          "research_interests": [
+               "Usability research",
+               "User experience",
+               "Qualitative research"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kenneth Baclawski",
+          "email": "k.baclawski@northeastern.edu",
+          "research_interests": [
+               "Semantics of data",
+               "Web service specification and deployment",
+               "Big Data and NoSQL systems",
+               "High-performance ontology-based computing",
+               "Knowledge bases for biology and medicine",
+               "Ontologies for life sciences, situation awareness, and financial services"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sully Baez",
+          "email": "s.baez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ricardo Baeza-Yates",
+          "email": "r.baeza-yates@northeastern.edu",
+          "research_interests": [
+               "Information retrieval",
+               "Web search and data mining",
+               "Data science and its associated algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Abraham Bagherjeiran",
+          "email": "a.bagherjeiran@northeastern.edu",
+          "research_interests": [
+               "Computation advertising",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Keith Bagley",
+          "email": "k.bagley@northeastern.edu",
+          "research_interests": [
+               "Human Computer Interaction",
+               "Internet of Things",
+               "Broadening Participation for Underrepresented Groups"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Albert-L\u00e1szl\u00f3 Barab\u00e1si",
+          "email": "alb@northeastern.edu",
+          "research_interests": [
+               "Network science and its applications",
+               "Properties of sub-cellular networks in understanding human disease",
+               "Control theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rachel Bargoot",
+          "email": "r.bargoot@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Barry Bebis",
+          "email": "m.barry@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "James Bartolotta",
+          "email": "j.bartolotta@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Madison Barton",
+          "email": "m.barton@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Eli Barzilay",
+          "email": "eli@ccs.neu.edu",
+          "research_interests": [
+               "Programming languages",
+               "Computer music",
+               "Applied logic"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Bau",
+          "email": "d.bau@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Computer vision",
+               "Artificial intelligence",
+               "Natural language processing",
+               "Human-computer interaction"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Maddy Bavasso",
+          "email": "m.bavasso@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Soheil Behnezhad",
+          "email": "s.behnezhad@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Nicole Bekerian",
+          "email": "n.bekerian@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jonathan Bell",
+          "email": "j.bell@northeastern.edu",
+          "research_interests": [
+               "Software Engineering",
+               "Program Analysis",
+               "Automated approaches to help developers write better software"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jan Belmonte",
+          "email": "j.belmonte@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kylie Ariel Bemis",
+          "email": "k.bemis@northeastern.edu",
+          "research_interests": [
+               "Statistical computing environments",
+               "Methods for complex data"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Keatyn Bergsten",
+          "email": "k.bergsten@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Enrico Bertini",
+          "email": "e.bertini@northeastern.edu",
+          "research_interests": [
+               "Visualization",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rahul Bhagat",
+          "email": "r.bhagat@northeastern.edu",
+          "research_interests": [
+               "Natural language processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rasika Bhalerao",
+          "email": "r.bhalerao@northeastern.edu",
+          "research_interests": [
+               "Ethical computing",
+               "Natural language processing and information retrieval",
+               "Security and privacy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Anurag Bhardwaj",
+          "email": "a.bhardwaj@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Computer vision",
+               "Algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Adeel Bhutta",
+          "email": "a.bhutta@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Machine learning",
+               "Software engineering",
+               "Computer science education"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Timothy W. Bickmore",
+          "email": "bickmore@ccs.neu.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Dialogue systems",
+               "Intelligent virtual agents",
+               "Avatars",
+               "Personal health informatics",
+               "Human-robot interaction"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jessica Biron",
+          "email": "j.biron@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Priyanka Bishnoi",
+          "email": "p.bishnoi@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Madison Blain",
+          "email": "m.blain@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Simona Boboila",
+          "email": "m.boboila@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "L Boco",
+          "email": "l.boco@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Philip Bogden",
+          "email": "p.bogden@northeastern.edu",
+          "research_interests": [
+               "Data visualization"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tamara Bonaci",
+          "email": "t.bonaci@northeastern.edu",
+          "research_interests": [
+               "Security and privacy of biomedical technologies",
+               "Security and privacy issues of neural engineering systems",
+               "Quantifying private information from electrophysiological signals"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mark Bonicillo",
+          "email": "m.bonicillo@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Elton Booker",
+          "email": "e.booker@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michelle Borkin",
+          "email": "m.borkin@northeastern.edu",
+          "research_interests": [
+               "Information and scientific visualization",
+               "Human-computer interaction",
+               "Medical imaging and radiology",
+               "Astrophysics",
+               "Visualization, cognition, and perception"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Carla E. Brodley",
+          "email": "c.brodley@northeastern.edu",
+          "research_interests": [
+               "Computing education research",
+               "Broadening participation in computing",
+               "University administration"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Marge Brown",
+          "email": "ma.brown@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kevin Bunszell",
+          "email": "k.bunszell@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Beth Callahan",
+          "email": "b.callahan@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Gary Cantrell",
+          "email": "g.cantrell@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Smajl Cengic",
+          "email": "s.cengic@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Agnes H. Chan",
+          "email": "ahchan@ccs.neu.edu",
+          "research_interests": [
+               "Applied cryptography",
+               "Secure communication"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Pandurangan Chandrasekaran",
+          "email": "pa.chandrasekaran@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Neda Changizi",
+          "email": "ne.changizi@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Divya Chaudhary",
+          "email": "d.chaudhary@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Zhuoqun Cheng",
+          "email": "z.cheng@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bruce Chhay",
+          "email": "b.chhay@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Choffnes",
+          "email": "choffnes@ccs.neu.edu",
+          "research_interests": [
+               "Distributed systems",
+               "Networking",
+               "Privacy and security",
+               "Measuring deployed Internet-scale systems (including mobile and IoT)",
+               "Designing solutions to address problems with reliability, efficiency, and security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kenneth Church",
+          "email": "k.church@northeastern.edu",
+          "research_interests": [
+               "Natural language processing and information retrieval",
+               "Artificial intelligence",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sophine Clachar",
+          "email": "s.clachar@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "William D. Clinger",
+          "email": "will@ccs.neu.edu",
+          "research_interests": [
+               "Functional and higher-order programming languages",
+               "Connecting mathematically sophisticated theories of syntax and semantics to economically important details of computer hardware and software"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Clough Groshek",
+          "email": "m.cloughgroshek@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Yvonne Coady",
+          "email": "m.coady@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Richard Cobbe",
+          "email": "r.cobbe@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ran Cohen",
+          "email": "ra.cohen@northeastern.edu",
+          "research_interests": [
+               "Cryptography"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Martha Collins",
+          "email": "m.collins@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Seth Cooper",
+          "email": "scooper@ccs.neu.edu",
+          "research_interests": [
+               "Scientific discovery games",
+               "Serious games",
+               "Crowdsourcing games",
+               "Citizen science",
+               "Novel interfaces for problem-solving",
+               "Automated tools for assisting game design and development",
+               "Computational structural biochemistry"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Gene Cooperman",
+          "email": "gene@ccs.neu.edu",
+          "research_interests": [
+               "Fault tolerance and transparent checkpointing",
+               "Supercomputing, parallel computing, cloud computing",
+               "Formal verification",
+               "Cybersecurity"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lino Coria Mendoza",
+          "email": "l.coria@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Armando Cortez",
+          "email": "ar.cortez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kyle K. Courtney",
+          "email": "k.courtney@northeastern.edu",
+          "research_interests": [
+               "Information assurance",
+               "Cyberlaw",
+               "Internet law",
+               "Intellectual property"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kathleen (Katie) Creel",
+          "email": "k.creel@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Brian Cross",
+          "email": "b.cross@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ryan Culpepper",
+          "email": "",
+          "research_interests": [
+               "Programming languages"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lauren Daley",
+          "email": "l.daley@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Iuri DaSilva",
+          "email": "i.dasilva@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bob De Schutter",
+          "email": "b.deschutter@northeastern.edu",
+          "research_interests": [
+               "Game design and development",
+               "Independent video games",
+               "Serious games",
+               "Player motivation",
+               "Aging"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michael De Vera",
+          "email": "m.devera@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Nancy Delaney",
+          "email": "n.delaney@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Julien Delange",
+          "email": "j.delange@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mahsa Derakhshan",
+          "email": "m.derakhshan@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Nate Derbinsky",
+          "email": "n.derbinsky@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Peter Desnoyers",
+          "email": "pjd@ccs.neu.edu",
+          "research_interests": [
+               "The integration of emerging storage technologies such as flash and SMR disk into existing software infrastructures",
+               "Algorithms for Flash storage",
+               "Shingled Magnetic Recording (SMR) disk drives",
+               "Teaching operating systems concepts"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Samantha DiCanio",
+          "email": "s.dicanio@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kevin Dill",
+          "email": "k.dill@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Games"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Roger Donaghy",
+          "email": "r.donaghy@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alex Donaldson",
+          "email": "al.donaldson@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alison Donnelly",
+          "email": "a.donnelly@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Daniel J. Dubois",
+          "email": "d.dubois@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cody Dunne",
+          "email": "c.dunne@northeastern.edu",
+          "research_interests": [
+               "Information visualization",
+               "Visual analytics",
+               "Graph and network visualization",
+               "Data workflows",
+               "Data and analytic provenance",
+               "Human-computer interaction (HCI)",
+               "Personal health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kathleen Durant",
+          "email": "k.durant@northeastern.edu",
+          "research_interests": [
+               "Social network analysis and visualization",
+               "Database design",
+               "Data science",
+               "Personal health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jennifer Dy",
+          "email": "j.dy@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Data mining",
+               "Statistical pattern recognition",
+               "Computer vision",
+               "Image processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bethany Edmunds",
+          "email": "b.edmunds@northeastern.edu",
+          "research_interests": [
+               "Generalized reinforcement learning for mobile robotics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Timothy Edmunds",
+          "email": "t.edmunds@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ehsan Elhamifar",
+          "email": "eelhami@ccs.neu.edu",
+          "research_interests": [
+               "Machine learning, with a focus in subset selection, zero and few shot learning, manifold clustering, high-rank matrix completion, nonlinear dynamical models, and deep neural networks",
+               "Computer vision, with a focus in procedure learning, video summarization, large-scale multi-label recognition, motion and activity segmentation, and active learning for visual data",
+               "Optimization, with a focus in sparse and low-rank recovery, structured submodular maximization, and convex and non-convex optimization"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tina Eliassi-Rad",
+          "email": "eliassi@ccs.neu.edu",
+          "research_interests": [
+               "Data mining",
+               "Machine learning",
+               "Network science",
+               "Ethics and artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Deniz Erdogmus",
+          "email": "erdogmus@ece.neu.edu",
+          "research_interests": [
+               "Machine learning",
+               "Signal and image analytics",
+               "Cyber-human systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Austin Escalera",
+          "email": "a.escalera@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michael Everett",
+          "email": "m.everett@northeastern.edu",
+          "research_interests": [
+               "Robotics",
+               "Motion planning",
+               "Reinforcement learning",
+               "Neural network verification",
+               "Control theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Don Fallis",
+          "email": "d.fallis@northeastern.edu",
+          "research_interests": [
+               "Epistemology",
+               "Philosophy of information",
+               "Philosophy of mathematics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Maryam Farahmand Asil",
+          "email": "m.farahmandasil@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Usama Fayyad",
+          "email": "u.fayyad@northeastern.edu",
+          "research_interests": [
+               "Data Science, AI, ML: data mining, knowledge discovery in databases, data analysis, exploration & visualization of large dimensional spaces and massive data sets. Applications of data mining in business, science, and government. Statistical pattern recognition, classification, and clustering. Machine intelligence, machine learning, inductive learning, decision trees",
+               "Databases: interactions between databases management systems and data analysis, scaling learning algorithms, DBMS platform issues in analytics",
+               "Image/Video Analytics: image processing, object recognition and event classification. Event detection in video streams, registration with other data"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sina Fazelpour",
+          "email": "s.fazel-pour@northeastern.edu",
+          "research_interests": [
+               "Data-driven and artificial intelligence technologies",
+               "Diversity in social groups and networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Daniel Feinberg",
+          "email": "d.feinberg@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Matthias Felleisen",
+          "email": "matthias@ccs.neu.edu",
+          "research_interests": [
+               "Programming languages",
+               "Software engineering"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Juan Fernandez",
+          "email": "j.fernandez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Larry Finkelstein",
+          "email": "laf@ccs.neu.edu",
+          "research_interests": [
+               "Physical science",
+               "Health science",
+               "Digital arts and business"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Barbara Finney",
+          "email": "b.finney@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Gail Fitzgerald",
+          "email": "g.fitzgerald@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mark Fontenot",
+          "email": "m.fontenot@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cliff Forlines",
+          "email": "c.forlines@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Data science",
+               "Data visualization",
+               "Virtual reality",
+               "Augmented reality",
+               "Extended reality"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jamon A. Foster",
+          "email": "jam.foster@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mary French",
+          "email": "m.french@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Yun Raymond Fu",
+          "email": "yunfu@ece.neu.edu",
+          "research_interests": [
+               "Machine learning",
+               "Computational intelligence",
+               "Big data mining",
+               "Computer vision",
+               "Pattern recognition",
+               "Cyber-physical systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexander Gamero-Garrido",
+          "email": "a.gamerogarrido@northeastern.edu",
+          "research_interests": [
+               "Internet measurement",
+               "Data localization",
+               "Internet policy",
+               "Cybersecurity & privacy",
+               "Computer networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Auroop Ganguly",
+          "email": "a.ganguly@northeastern.edu",
+          "research_interests": [
+               "Water and climate science",
+               "Data science",
+               "Network science",
+               "Infrastructure resilience"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michelle Gardner",
+          "email": "mi.gardner@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amy Gately",
+          "email": "a.gately@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Wolfgang Gatterbauer",
+          "email": "w.gatterbauer@northeastern.edu",
+          "research_interests": [
+               "Data management",
+               "Information management",
+               "Developing scalable approaches to perform inference over uncertain and networked data"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bethany Geary",
+          "email": "b.geary@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Domingo Genao",
+          "email": "d.genao@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Eric Gerber",
+          "email": "e.gerber@northeastern.edu",
+          "research_interests": [
+               "Sports analytics",
+               "Bayesian hierarchical models",
+               "Predictive modeling"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mackenzie Germain",
+          "email": "m.germain@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Fatemeh Ghoreishi",
+          "email": "f.ghoreishi@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michaela Gill",
+          "email": "m.gill@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Catherine Gill",
+          "email": "c.gill@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Giordano",
+          "email": "m.giordano@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jacob Goldblum",
+          "email": "j.goldblum@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "John Alexis Guerra Gomez",
+          "email": "j.guerragomez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexander Gonzalez",
+          "email": "a.gonzalez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bryan Gonzalez",
+          "email": "b.gonzalez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Matthew Goodwin",
+          "email": "m.goodwin@northeastern.edu",
+          "research_interests": [
+               "Personal health informatics",
+               "Ambulatory psychophysiology",
+               "Digital signal processing",
+               "Machine learning",
+               "Modeling interpersonal time series data"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ian Gorton",
+          "email": "i.gorton@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Timothy Greer",
+          "email": "t.greer@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexander Grob",
+          "email": "a.grob@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Paul Grosu",
+          "email": "p.grosu@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kim Gubelman",
+          "email": "k.gubelman@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Arjun Guha",
+          "email": "a.guha@northeastern.edu",
+          "research_interests": [
+               "Programming Languages"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Philip Gust",
+          "email": "p.gust@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Long-term preservation and access to born-digital content"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Brent Hailpern",
+          "email": "b.hailpern@northeastern.edu",
+          "research_interests": [
+               "Programming languages",
+               "Software engineering"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lama Hamandi",
+          "email": "l.hamandi@northeastern.edu",
+          "research_interests": [
+               "Systems & networking"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Farhan Hameed",
+          "email": "f.hameed@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Paul Hand",
+          "email": "p.hand@northeastern.edu",
+          "research_interests": [
+               "Theory and algorithms for machine learning and artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Suranga Handagala",
+          "email": "s.handagala@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "John Harris",
+          "email": "j.harris@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lane Harrison",
+          "email": "l.harrison@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Casper Harteveld",
+          "email": "c.harteveld@northeastern.edu",
+          "research_interests": [
+               "Decision-making",
+               "Game analytics, design, and user research",
+               "Learning",
+               "Sustainability",
+               "Systems Thinking"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Woodrow Hartzog",
+          "email": "w.hartzog@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Privacy and surveillance",
+               "Robotics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Charlie Haycook",
+          "email": "c.haycook@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Laura Herr",
+          "email": "l.herr@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Benjamin Hescott",
+          "email": "b.hescott@northeastern.edu",
+          "research_interests": [
+               "Computational complexity",
+               "Approximation algorithms",
+               "Computational biology"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lauren Heywood",
+          "email": "l.heywood@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Matt Higger",
+          "email": "m.higger@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Information theory",
+               "Signal processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Victoria Hill",
+          "email": "",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jamie Hipsman",
+          "email": "j.hipsman@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ally Hoffman",
+          "email": "a.hoffman@northeastern.edu",
+          "research_interests": [
+               "Information security governance, risk, and compliance"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Hofmann",
+          "email": "m.hofmann@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Personal health informatics",
+               "Accessibility",
+               "Digital fabrication"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Steve Holtzen",
+          "email": "s.holtzen@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Programming languages",
+               "Formal methods"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Richard Hoshino",
+          "email": "r.hoshino@northeastern.edu",
+          "research_interests": [
+               "Scheduling optimization",
+               "Operations research",
+               "Mathematics pedagogy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Timothy Howard",
+          "email": "t.howard@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Katie Hughes",
+          "email": "k.hughes@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mahdi Imani",
+          "email": "m.imani@northeastern.edu",
+          "research_interests": [
+               "Machine Learning",
+               "Reinforcement Learning",
+               "Stochastic Optimization"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Stephen Intille",
+          "email": "s.intille@northeastern.edu",
+          "research_interests": [
+               "Development and validation of innovative personal health informatics systems",
+               "Measuring and motivating behavioral changes through interactive, mobile sensing",
+               "The intersection of machine learning, behavioral theory, and behavioral measurement methods with computing technology"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Stratis Ioannidis",
+          "email": "ioannidis@ece.neu.edu",
+          "research_interests": [
+               "Big data",
+               "Machine learning",
+               "Privacy",
+               "Distributed systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alden Jackson",
+          "email": "a.jackson@northeastern.edu",
+          "research_interests": [
+               "Software-defined network architecture",
+               "Network security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Talisa Jackson",
+          "email": "ta.jackson@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hamidreza Jahanjou",
+          "email": "hamid@ccs.neu.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Shantanu Jain",
+          "email": "sh.jain@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Artificial intelligence",
+               "Data science",
+               "Statistics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alan Jamieson",
+          "email": "a.jamieson@northeastern.edu",
+          "research_interests": [
+               "K-12 CS Integration",
+               "Recruitment and Retention of Historically Excluded Groups in CS",
+               "Algorithms and Theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lindsay Jamieson",
+          "email": "l.jamieson@northeastern.edu",
+          "research_interests": [
+               "K-12 computer science education",
+               "Algorithms & theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Andrew Jelani",
+          "email": "a.dickens@northeastern.edu",
+          "research_interests": [
+               "Information retrieval",
+               "Machine learning",
+               "Algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Huaizu Jiang",
+          "email": "h.jiang@northeastern.edu",
+          "research_interests": [
+               "Computer vision",
+               "Computational photography",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Holly Jimison",
+          "email": "h.jimison@northeastern.edu",
+          "research_interests": [
+               "Personal health informatics",
+               "Pattern recognition",
+               "Decision support",
+               "Consumer health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Craig Johnson",
+          "email": "cr.johnson@northeastern.edu",
+          "research_interests": [
+               "Business application of machine learning and decision support in healthcare"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Reid Johnson",
+          "email": "re.johnson@northeastern.edu",
+          "research_interests": [
+               "Data Science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Austin Jorgensen",
+          "email": "a.jorgensen@northeastern.edu",
+          "research_interests": [
+               "Web development"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Kaeli",
+          "email": "kaeli@ece.neu.edu",
+          "research_interests": [
+               "Computer architecture",
+               "Heterogeneous computing",
+               "Performance analysis",
+               "Embedded systems",
+               "Security and information assurance",
+               "Back-end compilers",
+               "Profile-guided optimization",
+               "Hardware reliability and recovery",
+               "Image databases",
+               "Software engineering",
+               "Workload characterization",
+               "General purpose graphics processing units (GPGPU)"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amba Kak",
+          "email": "a.kak@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aisling Kearns",
+          "email": "a.kearns@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hannah Kearns",
+          "email": "h.kearns@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kevin Kekejian",
+          "email": "k.kekejian@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cailyn Kelley",
+          "email": "c.kelley@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Justin Kennedy",
+          "email": "j.kennedy@northeastern.edu",
+          "research_interests": [
+               "Software engineering algorithms",
+               "Programming languages"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mary Kennedy",
+          "email": "m.kennedy@northeastern.edu",
+          "research_interests": [
+               "The impact of health care information technology on patient experience",
+               "How health care information technology affects patients\u2019 environment of care",
+               "Defining clinical informatics competency"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aileen Kent Yates",
+          "email": "a.yates@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amin Kharraz",
+          "email": "m.kharraz@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Caitlin Kidder",
+          "email": "c.kidder@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Engin Kirda",
+          "email": "ek@ccs.neu.edu",
+          "research_interests": [
+               "Systems, software, and network security",
+               "Web security",
+               "Binary analysis",
+               "Malware detection"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "R\u00e9becca Kleinberger",
+          "email": "r.kleinberger@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jane Kokernak",
+          "email": "j.kokernak@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Almudena Konrad",
+          "email": "a.konrad@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexis Lambert",
+          "email": "al.lambert@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexander Lash",
+          "email": "a.lash@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Lazer",
+          "email": "d.lazer@northeastern.edu",
+          "research_interests": [
+               "Computational social science",
+               "Network science",
+               "Collective cognition",
+               "Political networks and deliberative democracy",
+               "Social media and social influence in networks",
+               "Predictive modeling"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hyonho Lee",
+          "email": "hyo.lee@northeastern.edu\t",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jeongkyu Lee",
+          "email": "jeo.lee@northeastern.edu",
+          "research_interests": [
+               "Big data",
+               "Machine learning",
+               "Robotics",
+               "Computer vision",
+               "Database systems",
+               "Data visualization",
+               "Deep learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ada Lerner",
+          "email": "a.lerner@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Security and privacy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Benjamin Lerner",
+          "email": "blerner@ccs.neu.edu",
+          "research_interests": [
+               "Programming languages",
+               "Computer science education"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Laurent Lessard",
+          "email": "l.lessard@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Karl Lieberherr",
+          "email": "lieber@ccs.neu.edu",
+          "research_interests": [
+               "Modularity in software development",
+               "Test-driven development for relational queries using neural networks",
+               "Socio-technical systems for problem solving in STEM areas involving competition and collaboration"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Wei-Kai Lin",
+          "email": "we.lin@northeastern.edu",
+          "research_interests": [
+               "Security and privacy",
+               "Algorithms and theory",
+               "Cryptography"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Xue \u201cShelly\u201d Lin",
+          "email": "xue.lin@northeastern.edu",
+          "research_interests": [
+               "Adversarial machine learning",
+               "Deep learning acceleration and hardware implementation",
+               "Cyber-physical systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Albert Lionelle",
+          "email": "a.lionelle@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Long Lu",
+          "email": "l.lu@northeastern.edu",
+          "research_interests": [
+               "Systems and software security",
+               "Internet-of-Things (IoT) and mobile security",
+               "Operating systems and compilers"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Celsey Lumbra",
+          "email": "c.lumbra@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Meng Luo",
+          "email": "m.luo@northeastern.edu",
+          "research_interests": [
+               "Mobile Security",
+               "Web Security",
+               "IoT Security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Blair MacIntyre",
+          "email": "b.macintyre@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Computer graphics",
+               "Augmented and virtual reality",
+               "Privacy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Madigan",
+          "email": "d.madigan@northeastern.edu",
+          "research_interests": [
+               "Statistics",
+               "Pharmacovigilance",
+               "Text mining",
+               "Monte Carlo methods",
+               "Probabilistic graphical models"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Meica Magnani",
+          "email": "m.magnani@northeastern.edu\t",
+          "research_interests": [
+               "Ethics of persuasive technologies and design",
+               "Autonomy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aanchal Malhotra",
+          "email": "a.malhotra@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Marie A. Maloney",
+          "email": "m.maloney@northeastern.edu",
+          "research_interests": [
+               "Healthcare informatics",
+               "Optimizing the quality of patient care through the integration of payer and provider processes"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Panagiotis (Pete) Manolios",
+          "email": "pete@ccs.neu.edu",
+          "research_interests": [
+               "Computer-aided modeling, verification, analysis, and synthesis of systems",
+               "Formal methods",
+               "Distributed computing",
+               "Programming languages",
+               "Software engineering",
+               "Aerospace"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sarah Maravetz",
+          "email": "s.maravetz@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Enrico Marchesini",
+          "email": "e.marchesini@northeastern.edu",
+          "research_interests": [
+               "Deep reinforcement learning",
+               "Multi-agent systems",
+               "Safety",
+               "Evolutionary algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Stacy C. Marsella",
+          "email": "marsella@ccs.neu.edu",
+          "research_interests": [
+               "Human behavior modeling, particularly health applications"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Craig Martell",
+          "email": "c.martell@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Chris Martens",
+          "email": "c.martens@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Shivakumar Mathapathi",
+          "email": "s.mathapathi@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Bruce Maxwell",
+          "email": "b.maxwell@northeastern.edu",
+          "research_interests": [
+               "Computer Vision",
+               "Machine Learning",
+               "Robotics",
+               "Data Science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jacob McCall",
+          "email": "j.mccall@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kimberly Riley McCrimmon",
+          "email": "k.mccrimmon@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kayla McLaughlin",
+          "email": "k.mclaughlin@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kellie Melchin",
+          "email": "k.melchin@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mardiros Merdinian",
+          "email": "m.merdinoglu@northeastern.edu",
+          "research_interests": [
+               "Information security",
+               "Information assurance"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sakib Miazi",
+          "email": "m.miazi@northeastern.edu",
+          "research_interests": [
+               "Usable security and privacy",
+               "Computing education",
+               "Human\u2013computer interaction",
+               "Security and privacy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Vidoje Mihajlovikj",
+          "email": "v.mihajlovikj@northeastern.edu",
+          "research_interests": [
+               "Software engineering, specifically layout and representation of reaction networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Margaret Miley",
+          "email": "m.miley@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ren\u00e9e Miller",
+          "email": "ren.miller@northeastern.edu",
+          "research_interests": [
+               "Data science",
+               "Data management",
+               "Data curation and integration"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mark Miller",
+          "email": "mark.miller@northeastern.edu",
+          "research_interests": [
+               "Computer science education"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ennio Mingolla",
+          "email": "e.mingolla@northeastern.edu",
+          "research_interests": [
+               "Development and empirical testing of neural network models of visual perception",
+               "Segmentation, grouping, and contour formation processes of early and middle vision in primates",
+               "Transitioning neural network models of visual perception to technological applications"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Omid Mirzaei",
+          "email": "o.mirzaei@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Machine learning",
+               "Security and privacy",
+               "Systems and networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Varun Mishra",
+          "email": "v.mishra@northeastern.edu",
+          "research_interests": [
+               "Ubiquitous computing for mental and behavioral health",
+               "mHealth sensing and intervention",
+               "Digital phenotyping",
+               "Personal health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alan Mislove",
+          "email": "amislove@ccs.neu.edu",
+          "research_interests": [
+               "Network measurement",
+               "Networking",
+               "Privacy and security issues associated with online social networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mohsen Moghaddam",
+          "email": "mohsen@northeastern.edu",
+          "research_interests": [
+               "Human-machine teaming",
+               "Extended reality",
+               "User-centered design",
+               "Artificial intelligence",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aanchan Mohan",
+          "email": "aa.mohan@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Natural language processing",
+               "Speech recognition"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alvaro Monge",
+          "email": "a.monge@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Yasmil Montes",
+          "email": "y.montes@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Pete Morency",
+          "email": "p.morency@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Barbara Morris",
+          "email": "b.morris@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ab Mosca",
+          "email": "a.mosca@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Smruthi Mukund",
+          "email": "s.mukund@northeastern.edu",
+          "research_interests": [
+               "Data Science",
+               "Machine Learning",
+               "Natural Language Processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tony Mullen",
+          "email": "tmullen@ccs.neu.edu",
+          "research_interests": [
+               "Statistical natural language processing",
+               "Computer-assisted language learning",
+               "Computer science pedagogy"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jacob Murel",
+          "email": "j.murel@northeastern.edu",
+          "research_interests": [
+               "Natural language processing",
+               "Digital humanities",
+               "Bibliography (book/print history)",
+               "Comics studies"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ed Murphy",
+          "email": "ed.murphy@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kereme Murrell",
+          "email": "k.murrell@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Felix Muzny",
+          "email": "f.muzny@northeastern.edu",
+          "research_interests": [
+               "Digital humanities",
+               "Computer science education"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jonathan Mwaura",
+          "email": "j.mwaura@northeastern.edu",
+          "research_interests": [
+               "Evolutionary computation",
+               "Multimodal optimization",
+               "Robotics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Elizabeth Mynatt",
+          "email": "khoury-dean@northeastern.edu",
+          "research_interests": [
+               "Health Informatics",
+               "Human Computer Interaction",
+               "Ubiquitous Computing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Meghan Napier",
+          "email": "m.napier@northeastern.edu\t",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Arasu Narayan",
+          "email": "m.narayanaperumal@northeastern.edu",
+          "research_interests": [
+               "Natural language processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Robert Ness",
+          "email": "r.ness@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Huy L\u00ea Nguyen",
+          "email": "hu.nguyen@northeastern.edu",
+          "research_interests": [
+               "Algorithmic techniques for massive data sets",
+               "Optimization",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cristina Nita-Rotaru",
+          "email": "c.nitarotaru@northeastern.edu",
+          "research_interests": [
+               "Distributed systems and network security",
+               "Insider-resilient systems",
+               "Analytics for security and fault-tolerance",
+               "Automated testing and verification"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Guevara Noubir",
+          "email": "noubir@ccs.neu.edu",
+          "research_interests": [
+               "Theory and practice of privacy and security",
+               "Robustness of networked systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Christopher Noyes",
+          "email": "cn@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Luc\u00eda Nu\u00f1ez",
+          "email": "d.nunez@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Robert Oboko",
+          "email": "r.oboko@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Anna Olson",
+          "email": "a.olson@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kaan Onarlioglu",
+          "email": "onarliog@ccs.neu.edu",
+          "research_interests": [
+               "Operating systems security",
+               "Human-computer interaction",
+               "Security and privacy",
+               "Systems and networking"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alina Oprea",
+          "email": "a.oprea@northeastern.edu",
+          "research_interests": [
+               "Security analytics",
+               "Cloud security",
+               "Network security",
+               "Applied cryptography"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Elizabeth O\u2019Reilly",
+          "email": "",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Samol Ork",
+          "email": "s.ork@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Michelle Ormerod",
+          "email": "m.ormerod@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Arianna Pagan",
+          "email": "",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hari Palani",
+          "email": "ha.palani@northeastern.edu",
+          "research_interests": [
+               "Multisensory information access",
+               "Spatial informatics",
+               "Accessibility",
+               "Assistive technology",
+               "User research"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kaushal Paneri",
+          "email": "k.paneri@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Themis A. Papageorge",
+          "email": "tapapag@ccs.neu.edu",
+          "research_interests": [
+               "Risk management"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Paquette",
+          "email": "d.paquette@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Zoe Paraskevopoulou",
+          "email": "z.paraskevopoulou@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "John Park",
+          "email": "john.park@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Andrea Grimes Parker",
+          "email": "www.ccs.neu.edu/home/andrea/",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rupal Patel",
+          "email": "r.patel@northeastern.edu",
+          "research_interests": [
+               "Speech acoustics and analytics",
+               "Design and development of assistive communication technology",
+               "Speech motor control in neuromotor disorders",
+               "Typical speech development"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Babitha Pathiyanna",
+          "email": "b.pathiyanna@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Daniel Patterson",
+          "email": "d.patterson@northeastern.edu",
+          "research_interests": [
+               "Computer science education",
+               "Logic and specification",
+               "Formal methods",
+               "Programming languages"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Misha Pavel",
+          "email": "m.pavel@northeastern.edu",
+          "research_interests": [
+               "Behavioral informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Virgil Pavlu",
+          "email": "vip@ccs.neu.edu",
+          "research_interests": [
+               "Information retrieval",
+               "Machine learning",
+               "Algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mahya Payamshad",
+          "email": "m.payamshad@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Melissa Peikin",
+          "email": "m.peikin@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cristian Penarrieta",
+          "email": "c.penarrieta@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jose Perea",
+          "email": "j.pereabenitez@northeastern.edu",
+          "research_interests": [
+               null,
+               null,
+               null,
+               null,
+               null,
+               null,
+               null,
+               null
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Manuel A. P\u00e9rez Qui\u00f1ones",
+          "email": "/scholar.google.com/citations?user=ZiR4ZnEAAAAJ&hl=en",
+          "research_interests": [
+               "Human-computer interaction",
+               "Computer science education",
+               "Diversity in computing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Josie Pettigrew",
+          "email": "j.pettigrew@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Robert Platt",
+          "email": "rplatt@ccs.neu.edu",
+          "research_interests": [
+               "Perception, planning, and control for robotic manipulation"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Claudia Portillo",
+          "email": "c.portillo@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Marie Poudiougou",
+          "email": "m.poudiougou@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Adam C. Powell",
+          "email": "ad.powell@northeastern.edu",
+          "research_interests": [
+               "Personal health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mirjana Prpa",
+          "email": "m.prpa@northeastern.edu",
+          "research_interests": [
+               "Virtual / Augmented Reality",
+               "Artificial Intelligence",
+               "Machine Learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "John Rachlin",
+          "email": "j.rachlin@northeastern.edu",
+          "research_interests": [
+               "Databases",
+               "Artificial intelligence",
+               "Bioinformatics",
+               "Large-scale computing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Dimitri Racordon",
+          "email": "d.racordon@northeastern.edu",
+          "research_interests": [
+               "Programming languages",
+               "Compiler construction",
+               "Type systems",
+               "Memory safety",
+               "Formal methods"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ryan M. Rad",
+          "email": "r.moradirad@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Computer vision",
+               "Generative models",
+               "Data science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Predrag Radivojac",
+          "email": "predrag@northeastern.edu",
+          "research_interests": [
+               "Computational biology",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rajmohan Rajaraman",
+          "email": "rraj@ccs.neu.edu",
+          "research_interests": [
+               "Approximation algorithms for intractable optimization problems, with a particular interest in network design",
+               "Distributed computing in highly dynamic environments",
+               "Algorithmic game theory"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Vishal Rajpal",
+          "email": "v.rajpal@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ujwala Ramakrishna",
+          "email": "u.ramakrishna@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aanjhan Ranganathan",
+          "email": "aanjhan@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Vinayak Rao",
+          "email": "v.rao@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Richard Rasala",
+          "email": "rasala@ccs.neu.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Olivia Raykovich",
+          "email": "o.raykovich@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Leena Razzaq",
+          "email": "lrazzaq@ccs.neu.edu",
+          "research_interests": [
+               "Intelligent tutoring systems",
+               "Artificial intelligence",
+               "Human-centered computing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ali Ressing",
+          "email": "a.ressing@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tyr\u00e9 Richards",
+          "email": "ty.richards@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Krista Richmond",
+          "email": "k.richmond@northeastern.edu",
+          "research_interests": [
+               "Advanced analytics",
+               "Project management",
+               "Artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Vance Ricks",
+          "email": "v.ricks@northeastern.edu",
+          "research_interests": [
+               "Friendships & parasocial relationships online",
+               "Human-computer interaction",
+               "Artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mirek Riedewald",
+          "email": "m.riedewald@northeastern.edu",
+          "research_interests": [
+               "Databases",
+               "Data mining"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Christoph Riedl",
+          "email": "c.riedl@northeastern.edu",
+          "research_interests": [
+               "Collective intelligence",
+               "Human-AI teaming",
+               "Crowdsourcing",
+               "Social influence/peer effects in social networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Daniel Ries",
+          "email": "d.ries@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Shari Robbins",
+          "email": "sh.robbins@northeastern.edu",
+          "research_interests": [
+               "Organizational behavior",
+               "Culture transformation",
+               "Change management"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "William Robertson",
+          "email": "w.robertson@northeastern.edu",
+          "research_interests": [
+               "Systems security",
+               "Web security",
+               "Mobile security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sami Rollins",
+          "email": "s.rollins@northeastern.edu",
+          "research_interests": [
+               "Broadening participation in computing",
+               "Computer science education",
+               "Mobile and distributed computing",
+               "Home energy management"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David M. Rosen",
+          "email": "d.rosen@northeastern.edu",
+          "research_interests": [
+               "Robotics",
+               "Machine learning",
+               "Optimization",
+               "Geometry",
+               "Probability",
+               "Statistics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lauren Rosenberg",
+          "email": "l.rosenberg@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Monique Roth",
+          "email": "m.roth@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Joseph J. Rushanan",
+          "email": "j.rushanan@northeastern.edu",
+          "research_interests": [
+               "Navigation",
+               "Applied cryptography",
+               "Probabilistic inference for assurance"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tariq Sachleben",
+          "email": "t.sachleben@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Herman Saksono",
+          "email": "h.saksono@northeastern.edu",
+          "research_interests": [
+               "Human-centered computing",
+               "Personal health informatics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Betty Salzberg",
+          "email": "",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Piotr Sapiezynski",
+          "email": "p.sapiezynski@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Prasad Saripalli",
+          "email": "k.saripalli@northeastern.edu",
+          "research_interests": [
+               "Distributed systems, cloud and virtualization",
+               "Machine learning for health care",
+               "Artificial intelligence for health care"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aarti Sathyanarayana",
+          "email": "a.sathyanarayana@northeastern.edu",
+          "research_interests": [
+               "Digital health",
+               "Wearable devices",
+               "Digital phenotyping",
+               "Digital biomarker discovery"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Saiph Savage",
+          "email": "s.savage@northeastern.edu",
+          "research_interests": [
+               "Artificial intelligence",
+               "Human-computer interaction",
+               "Data science",
+               "Network science",
+               "Machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Samuel Scarpino",
+          "email": "s.scarpino@northeastern.edu",
+          "research_interests": [
+               "Applied mathematics",
+               "Bioinformatics",
+               "Computational biology",
+               "Genetics",
+               "Integrative biology",
+               "Machine learning",
+               "Network modeling",
+               "Population dynamics",
+               "Statistics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Martin Schedlbauer",
+          "email": "m.schedlbauer@northeastern.edu",
+          "research_interests": [
+               "Learning analytics",
+               "Applied collaborative software development methods",
+               "Computer science education>"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Logan Schmidt",
+          "email": "l.schmidt@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Walter Schnyder",
+          "email": "w.schnyder@northeastern.edu",
+          "research_interests": [
+               "Graph algorithms and algebraic graph theory",
+               "Combinatorial algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Garrett Schwab",
+          "email": "g.schwab@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ethan Selinger",
+          "email": "e.selinger@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mike Shah",
+          "email": "mikeshah@northeastern.edu",
+          "research_interests": [
+               "Dynamic analysis tools",
+               "Software visualization",
+               "Software engineering",
+               "Computer graphics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Vidhi Shah",
+          "email": "vi.shah@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Althea Shaheen",
+          "email": "a.shaheen@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Shahin Shahrampour",
+          "email": "s.shahrampour@northeastern.edu",
+          "research_interests": [
+               "Machine learning",
+               "Optimization and control",
+               "Distributed and sequential learning, with a focus on developing computationally efficient methods for data analytics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Aida Sharif Rohani",
+          "email": "a.sharifrohani@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Abhi Shelat",
+          "email": "abhi@northeastern.edu",
+          "research_interests": [
+               "Cryptography",
+               "Applied security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jennifer Shepard",
+          "email": "j.shepard@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Chord Sheriffe",
+          "email": "c.sheriffe@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amit Shesh",
+          "email": "ashesh@ccs.neu.edu",
+          "research_interests": [
+               "Computer graphics",
+               "Computer science education"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ji-Yong Shin",
+          "email": "j.shin@northeastern.edu",
+          "research_interests": [
+               "Distributed systems",
+               "Formal verification",
+               "Cloud storage systems",
+               "Operating systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jennifer Shire",
+          "email": "j.shire@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Olin Shivers",
+          "email": "shivers@ccs.neu.edu",
+          "research_interests": [
+               "Programming Languages",
+               "Systems and Networking",
+               "Compilers"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Roee Shraga",
+          "email": "r.shraga@northeastern.edu",
+          "research_interests": [
+               "Database systems",
+               "Machine learning",
+               "Deep learning",
+               "Information retrieval",
+               "Natural language processing",
+               "Data science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "LaToya Shuler",
+          "email": "l.shuler@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jose Sierra",
+          "email": "j.sierra@northeastern.edu",
+          "research_interests": [
+               "Attribute based access control",
+               "IoT communications protection",
+               "Technology innovations in cyber threats and cyber defenses"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hanumant Singh",
+          "email": "ha.singh@neu.edu",
+          "research_interests": [
+               "Robotic sensors, systems, platforms, and algorithms",
+               "High resolution optical and acoustic sensing",
+               "Underwater vehicles"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Sarita Singh",
+          "email": "s.singh@northeastern.edu",
+          "research_interests": [
+               "Education technology",
+               "Cybersecurity",
+               "Artificial intelligence",
+               "Software development",
+               "Data communication"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Adrienne Slaughter",
+          "email": "a.slaughter@northeastern.edu",
+          "research_interests": [
+               "Personal health informatics",
+               "Mobile app design & development",
+               "Information visualization"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alex Smith",
+          "email": "al.smith@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Chelsea Smith",
+          "email": "c.smith@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "David Smith",
+          "email": "dasmith@ccs.neu.edu",
+          "research_interests": [
+               "Efficient inference for machine learning models with complex latent structure",
+               "Modeling natural language structures, such as morphology, syntax, and semantics",
+               "Modeling the mutations in texts as they propagate through social networks and in language across space and time",
+               "Interactive information retrieval and machine learning for expert users"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Greg Smith",
+          "email": "g.smith@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jessica Speece",
+          "email": "j.speece@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ellen Spertus",
+          "email": "e.spertus@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hillary Spiritos",
+          "email": "h.spiritos@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jay Spitulnik",
+          "email": "j.spitulnik@northeastern.edu",
+          "research_interests": [
+               "Project management",
+               "Organizational behavior",
+               "Statistics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amy Starzec",
+          "email": "a.starzec@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Andrea Stith",
+          "email": "a.stith@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Laney Strange",
+          "email": "e.strange@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Strosnider",
+          "email": "m.strosnider@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lili Su",
+          "email": "l.su@northeastern.edu",
+          "research_interests": [
+               "Distributed machine learning",
+               "Security and fault-tolerance",
+               "Neural computation",
+               "Bio-inspired distributed algorithms",
+               "Blockchains",
+               "Autonomous cars",
+               "Algorithm design"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hosung Song",
+          "email": "ho.song@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Zhifeng Sun",
+          "email": "z.sun@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ravi Sundaram",
+          "email": "koods@ccs.neu.edu",
+          "research_interests": [
+               "Networks",
+               "Algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Philip Su",
+          "email": "p.su@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Madiha Tabassum",
+          "email": "m.tabassum@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Carmen Taglienti",
+          "email": "c.taglienti@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Cheng Tan",
+          "email": "c.tan@northeastern.edu",
+          "research_interests": [
+               "Computer systems",
+               "Systems and networking",
+               "Security",
+               "Operating systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Benjamin Tasker",
+          "email": "b.hasker@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Giulia Taurino",
+          "email": "g.taurino@northeastern.edu",
+          "research_interests": [
+               "Algorithms and Theory",
+               "AI Ethics",
+               "AI and the Arts",
+               "Natural Language Processing and Information Retrieval"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Abhijit Tawde",
+          "email": "a.tawde@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Taryn Tessari",
+          "email": "t.tessari@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jack Thomas",
+          "email": "ja.thomas@northeastern.edu",
+          "research_interests": [
+               "Robotics"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jodi Tims",
+          "email": "j.tims@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Frank Tip",
+          "email": "f.tip@northeastern.edu",
+          "research_interests": [
+               "Programming languages",
+               "Software engineering"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Devesh Tiwari",
+          "email": "tiwari@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alexandra To",
+          "email": "a.to@northeastern.edu",
+          "research_interests": [
+               "Human-Computer Interaction",
+               "Games",
+               "Racial Equity",
+               "Design"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amy Tonkonogy",
+          "email": "a.tonkonogy@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Melanie Tory",
+          "email": "m.tory@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alejandro Toselli",
+          "email": "a.toselli@northeastern.edu",
+          "research_interests": [
+               null
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mohammad Toutiaee",
+          "email": "m.toutiaee@northeastern.edu",
+          "research_interests": [
+               "Data science",
+               "Machine learning",
+               "Artificial intelligence"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mary Trimarco",
+          "email": "m.trimarco@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Stavros Tripakis",
+          "email": "stavros@northeastern.edu",
+          "research_interests": [
+               "Foundations of software and system design",
+               "Computer-aided verification and synthesis",
+               "Cyber-physical systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Catherine Turner",
+          "email": "ca.turner@northeastern.edu",
+          "research_interests": [
+               "Nursing/nursing informatics",
+               "Healthcare informatics",
+               "Electronic health records"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jonathan Ullman",
+          "email": "jullman@ccs.neu.edu",
+          "research_interests": [
+               "Privacy",
+               "Machine learning and statistics",
+               "Cryptography",
+               "Algorithms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Scott Valcourt",
+          "email": "s.valcourt@northeastern.edu",
+          "research_interests": [
+               "Systems and networking",
+               "Software engineering",
+               "Programming languages",
+               "Network science",
+               "Science of learning",
+               "Team science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Julie Van",
+          "email": "ju.van@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jan-Willem van de Meent",
+          "email": "j.vandemeent@northeastern.edu",
+          "research_interests": [
+               "Interface of programming languages and machine learning"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Andrew van der Poel",
+          "email": "a.vanderpoel@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Kathleen Vander Laan",
+          "email": "k.vanderlaan@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Oscar Veliz",
+          "email": "o.veliz@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ferdinand Vesely",
+          "email": "f.vesely@northeastern.edu",
+          "research_interests": [
+               "Semantics of programming languages",
+               "Functional programming",
+               "Program transformation",
+               "Interactive theorem provers",
+               "Compiler design & implementation and code generation",
+               "Operational equivalence of programs, bisimulation & congruence formats"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Alessandro Vespignani",
+          "email": "a.vespignani@northeastern.edu",
+          "research_interests": [
+               "Characterization and modeling of complex networks",
+               "Modeling the spatial spread of epidemics",
+               "Resilience of complex networks",
+               "Collective behavior of techno-social systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Wes Viles",
+          "email": "w.viles@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Emanuele Viola",
+          "email": "viola@ccs.neu.edu",
+          "research_interests": [
+               "Theoretical Computer Science"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Amanda Vispo",
+          "email": "a.vispo@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Jan Vitek",
+          "email": "j.vitek@northeastern.edu",
+          "research_interests": [
+               "Programming languages",
+               "Compilers",
+               "Program analysis",
+               "Memory management",
+               "Virtual machine",
+               "Type systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Olga Vitek",
+          "email": "o.vitek@northeastern.edu",
+          "research_interests": [
+               "Statistical and computational methods for systems-wide molecular investigations of biological organisms"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Tien Vo-Huu",
+          "email": "tienvh@ccs.neu.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Matias Volonte",
+          "email": "m.volonte@northeastern.edu\t",
+          "research_interests": [
+               "Human-computer interaction",
+               "Dialogue systems",
+               "Intelligent virtual agents",
+               "Avatars",
+               "Personal health informatics",
+               "Virtual reality"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Enea Vreka",
+          "email": "e.vreka@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Thomas Wahl",
+          "email": "t.wahl@northeastern.edu",
+          "research_interests": [
+               "Reliability of complex and mission-critical computing systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ari Waldman",
+          "email": "a.waldman@northeastern.edu",
+          "research_interests": [
+               "Privacy",
+               "Law and society",
+               "Equality and nondiscrimination",
+               "Law and technology"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Byron Wallace",
+          "email": "byron@ccs.neu.edu",
+          "research_interests": [
+               "Data mining",
+               "Machine learning",
+               "Natural language processing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Robin Walters",
+          "email": "r.walters@northeastern.edu\t",
+          "research_interests": [
+               "Deep learning",
+               "Equivariant neural networks",
+               "Representation theory",
+               "Algebraic geometry"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Mitchell Wand",
+          "email": "wand@ccs.neu.edu",
+          "research_interests": [
+               "Probabilistic programming languages",
+               "Binding-safe programming"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hsiao-an (Justin) Wang",
+          "email": "hs.wang@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Yanzhi Wang",
+          "email": "yanz.wang@northeastern.edu",
+          "research_interests": [
+               "Energy-efficient and high-performance implementation of deep learning systems",
+               "Model compression of deep neural networks (DNNs)",
+               "Neuromorphic computing and non-von Neumann computing paradigms",
+               "Cybersecurity in deep learning systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Claire Wassinger",
+          "email": "c.wassinger@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Daniel Wichs",
+          "email": "wichs@ccs.neu.edu",
+          "research_interests": [
+               "Modern cryptography",
+               "Information security"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "John Wilder",
+          "email": "j.wilder@northeastern.edu",
+          "research_interests": [
+               "Human and computer vision",
+               "Cognitive neuroscience",
+               "Neural networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Christo Wilson",
+          "email": "cbw@ccs.neu.edu",
+          "research_interests": [
+               "Algorithm auditing, specifically using controlled experiments to understand whether black-box algorithmic systems are unfair or discriminatory",
+               "Understanding online tracking and developing techniques to improve online privacy",
+               "Measuring and improving public key infrastructures like SSL/TLS and DNSSEC"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Raimond Winslow",
+          "email": "r.winslow@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Megan Winter",
+          "email": "me.winter@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Barry Wolfield",
+          "email": "b.wolfield@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Lawson Wong",
+          "email": "lsw@ccs.neu.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Ming-Chuan Wu",
+          "email": "mi.wu@northeastern.edu",
+          "research_interests": [
+               "Declarative ML systems"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Allen Xiao",
+          "email": "a.xiao@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Chung Xiong",
+          "email": "c.xiong@northeastern.edu",
+          "research_interests": [],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Edmund Yeh",
+          "email": "eyeh@ece.neu.edu",
+          "research_interests": [
+               "Data-centric network architectures",
+               "Fog/edge computing",
+               "Wireless network optimization",
+               "Resilient network infrastructures",
+               "Network science and economics",
+               "Network information theory and coding"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Caglar Yildirim",
+          "email": "c.yildirim@northeastern.edu",
+          "research_interests": [
+               "Human-computer interaction",
+               "Applied machine learning",
+               "Data visualization",
+               "Games"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Nutchanon Yongsatianchot",
+          "email": "n.yongsatianchot@northeastern.edu",
+          "research_interests": [
+               "Computational model of emotion and decision-making",
+               "Affective computing"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Rose Yu",
+          "email": "roseyu@northeastern.edu",
+          "research_interests": [
+               "Machine Learning",
+               "Spatiotemporal Modeling"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Shuo Zhang",
+          "email": "s.zhang@northeastern.edu",
+          "research_interests": [
+               "Platform design",
+               "Algorithmic fairness",
+               "Online job search"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Hongyang Zhang",
+          "email": "ho.zhang@northeastern.edu\t",
+          "research_interests": [
+               "Statistical machine learning",
+               "Design and analysis of algorithms",
+               "Learning theory, particularly deep learning theory",
+               "Social and information networks"
+          ],
+          "university": "Northeastern University",
+          "department": "Khoury College of Computer Sciences"
+     },
+     {
+          "name": "Scott Ahlgren",
+          "email": "sahlgren@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Pierre Albin",
+          "email": "palbin@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Matthew Ando",
+          "email": "mando@illinois.edu",
+          "research_interests": [
+               "Algebraic Geometry",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jozsef Balogh",
+          "email": "jobal@illinois.edu",
+          "research_interests": [
+               "Combinatorics",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Yuliy Baryshnikov",
+          "email": "ymb@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Geometry and Topology",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Daniel Berwick-Evans",
+          "email": "danbe@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Florin P. Boca",
+          "email": "fboca@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Steven Bradlow",
+          "email": "bradlow@illinois.edu",
+          "research_interests": [
+               "Algebraic Geometry",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jared Bronski",
+          "email": "bronski@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Lee DeVille",
+          "email": "rdeville@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Partha Dey",
+          "email": "psdey@illinois.edu",
+          "research_interests": [
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Philippe Di Francesco",
+          "email": "philippe@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Combinatorics",
+               "Geometry and Topology",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Christopher Dodd",
+          "email": "csdodd2@illinois.edu",
+          "research_interests": [
+               "Algebraic Geometry"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Nathan M. Dunfield",
+          "email": "nmd@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Geometry and Topology",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sankar P. Dutta",
+          "email": "s-dutta@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Iwan M. Duursma",
+          "email": "duursma@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "M. Burak Erdo\u011fan",
+          "email": "berdogan@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Runhuan Feng",
+          "email": "rfeng@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kevin Ford",
+          "email": "ford126@illinois.edu",
+          "research_interests": [
+               "Combinatorics",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Rosemary Guzman",
+          "email": "rguzma1@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "William Haboush",
+          "email": "whaboush@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jeremiah Heller",
+          "email": "jbheller@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Aimo Hinkkanen",
+          "email": "aimo@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Anil Hirani",
+          "email": "hirani@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Vera Mikyoung Hur",
+          "email": "verahur@math.uiuc.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sergei V Ivanov",
+          "email": "ivanov@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology",
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Xiaochen Jing",
+          "email": "xjing4@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Marius Junge",
+          "email": "mjunge@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sheldon Katz",
+          "email": "katzs@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Physical Mathematics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Rinat Kedem",
+          "email": "rinat@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Combinatorics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Ely Kerman",
+          "email": "ekerman@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kay Kirkpatrick",
+          "email": "kkirkpat@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Eduard-Wilhelm Kirr",
+          "email": "ekirr@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Alexandr Kostochka",
+          "email": "kostochk@illinois.edu",
+          "research_interests": [
+               "Combinatorics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Denka Kutzarova",
+          "email": "denka@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Gabriele La Nave",
+          "email": "lanave@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Richard S. Laugesen",
+          "email": "laugesen@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Felix Leditzky",
+          "email": "leditzky@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)",
+               "Physical Mathematics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Eugene Lerman",
+          "email": "",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Xiaochun Li",
+          "email": "xcli@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Yuan Liu",
+          "email": "yyyliu@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Rui Loja Fernandes",
+          "email": "ruiloja@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Randy McCarthy",
+          "email": "rmccrthy@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Igor Mineyev",
+          "email": "mineyev@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Igor Nikolaev",
+          "email": "inik@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Timur Oikhberg",
+          "email": "oikhberg@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "James Pascaleff",
+          "email": "jpascale@illinois.edu",
+          "research_interests": [
+               "Algebraic Geometry",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Frank Quan",
+          "email": "zquan@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Zoi Rapti",
+          "email": "zrapti@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Charles Rezk",
+          "email": "rezk@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Bruce Reznick",
+          "email": "reznick@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Analysis",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Renming Song",
+          "email": "rsong@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Richard B. Sowers",
+          "email": "r-sowers@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research",
+               "Analysis",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Vesna Stojanoska",
+          "email": "vesna@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jesse Thorner",
+          "email": "jat9@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Susan Tolman",
+          "email": "tolman@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Alexander Tumanov",
+          "email": "tumanov@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jeremy Tyson",
+          "email": "tyson@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Nikolaos Tzirakis",
+          "email": "tzirakis@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Wei Wei",
+          "email": "weiw@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Alexander Yong",
+          "email": "ayong@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Algebraic Geometry",
+               "Combinatorics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Alexandru Zaharescu",
+          "email": "zaharesc@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Vadim Zharnitsky",
+          "email": "vzh@illinois.edu",
+          "research_interests": [
+               "Differential Equations and Applied Mathematics (DEAM)"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Roy Araiza",
+          "email": "raraiza@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Carrie Clark",
+          "email": "carriec2@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Meng Guo",
+          "email": "mengguo1@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Elizabeth Kelley",
+          "email": "kelleye@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Combinatorics"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Xiao Liu",
+          "email": "liu328@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kunjakanan Nath",
+          "email": "knath@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Joey Palmer",
+          "email": "jpalmer5@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Avery St Dizier",
+          "email": "stdizie2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Florian Zeiser",
+          "email": "fzeiser@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Manijeh Bahreini Esfahani",
+          "email": "bahreini@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Tim Cardinal",
+          "email": "tcc1@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jer-Chin Chuang",
+          "email": "jchuang@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Theresa Dobbs (she/her)",
+          "email": "tdobbs2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jason Walter Elliot",
+          "email": "jelliot2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Claudia Freiji",
+          "email": "cnassif@illinois.edu",
+          "research_interests": [
+               "Actuarial Science Faculty Research"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "April Hoffmeister",
+          "email": "amhoff@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Eric Icaza",
+          "email": "erici2@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Aldo Manfroi",
+          "email": "amanfroi@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jennifer McNeilly",
+          "email": "jrmcneil@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Karen Mortensen",
+          "email": "kmortens@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Tayyab Nawaz",
+          "email": "tnawaz2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sarka Petrickova",
+          "email": "petrckv2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Laura Placzek",
+          "email": "lplaczek@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Alison Reddy",
+          "email": "ared@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Matthew Russell",
+          "email": "mcr39@illinois.edu",
+          "research_interests": [
+               "Combinatorics",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Hannah Spinoza",
+          "email": "hkolb2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jenny Srikant",
+          "email": "jsrikan2@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kim Whittlesey",
+          "email": "kwhittle@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Mohamed Ali Belabbas",
+          "email": "belabbas@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Wendy K Tam Cho",
+          "email": "wendycho@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sheldon Jacobson",
+          "email": "shj@illinois.edu",
+          "research_interests": [
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kohei Kishida",
+          "email": "kkishida@illinois.edu",
+          "research_interests": [
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Daniel M. Liberzon",
+          "email": "liberzon@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jun Song",
+          "email": "songj@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Tandy Warnow",
+          "email": "warnow@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Zhizhen Zhao",
+          "email": "zhizhenz@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Stephanie Alexander",
+          "email": "sba@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Ararat Babakhanian",
+          "email": "ababakha@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "I. David Berg",
+          "email": "idberg@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Maarten J. Bergvelt",
+          "email": "bergv@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Earl R. Berkson",
+          "email": "berkson@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Bruce C. Berndt",
+          "email": "berndt@math.illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Peter G. Braunfeld",
+          "email": "pbraunfe@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "John Brown",
+          "email": "jocar89@comcast.net",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Robert F. Craggs",
+          "email": "craggs@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "John P. D'Angelo",
+          "email": "jpda@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Everett C. Dade",
+          "email": "ecdade@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Harold Diamond",
+          "email": "hdiamond@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Robert M. Fossum",
+          "email": "rmfossum@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "George Francis",
+          "email": "gfrancis@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Zoltan Furedi",
+          "email": "z-furedi@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Daniel R. Grayson",
+          "email": "danielrichardgrayson@gmail.com",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Phillip Griffith",
+          "email": "pgriffit@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "C. Ward Henson",
+          "email": "cwhenson@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Richard Herman",
+          "email": "rhh@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "A J Hildebrand",
+          "email": "ajh@illinois.edu",
+          "research_interests": [
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Gerald J. Janusz",
+          "email": "gjanusz@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Carl G Jockusch Jr",
+          "email": "cjockusc@illinois.edu",
+          "research_interests": [
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Robert P. Kaufman",
+          "email": "rpkaufma@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Peter Loeb",
+          "email": "PeterA3@AOL.com",
+          "research_interests": [
+               "Analysis",
+               "Logic",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Leon R. McCulloh",
+          "email": "mcculloh@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Lynn McLinden",
+          "email": "mclinden@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Joseph Miles",
+          "email": "j-miles3@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Robert G. Muncaster",
+          "email": "muncast@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Julian Palmore",
+          "email": "palmore@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Emily Mann Peck",
+          "email": "e-peck@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Anthony L. Peressini",
+          "email": "peressin@illinois.edu",
+          "research_interests": [
+               "Analysis"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Anand Pillay",
+          "email": "pillay@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Horacio Porta",
+          "email": "h-porta@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Esther Portnoy",
+          "email": "eportnoy@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Derek J.S. Robinson",
+          "email": "dsrobins@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Joseph M. Rosenblatt",
+          "email": "rosnbltt@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Zhong-Jin Ruan",
+          "email": "z-ruan@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Kenneth Stolarsky",
+          "email": "stolarsk@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Geometry and Topology",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Philippe Tondeur",
+          "email": "tondeur@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Stephen V. Ullom",
+          "email": "ullom@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Lou van den Dries",
+          "email": "vddries@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Paul M. Weichsel",
+          "email": "weichsel@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Elliot Weinberg",
+          "email": "ecw@illinois.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Douglas B. West",
+          "email": "dwest@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jang-Mei Wu",
+          "email": "jmwu@illinois.edu",
+          "research_interests": [
+               "Analysis",
+               "Probability"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Thomas E Anderson",
+          "email": "teanders@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jayadev Athreya",
+          "email": "jathreya@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Nigel Boston",
+          "email": "",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Sunil Kumar Chebolu",
+          "email": "chebolu@illinois.edu",
+          "research_interests": [
+               "Algebra",
+               "Geometry and Topology",
+               "Number Theory"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "James Glazebrook",
+          "email": "glazebro@illinois.edu",
+          "research_interests": [
+               "Geometry and Topology"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Yevgeniy I. Gordon",
+          "email": "gordon3@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Dirk Hundertmark",
+          "email": "dhundert@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Ilya Kapovich",
+          "email": "ik535@hunter.cuny.edu",
+          "research_interests": [
+               "Logic"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Grant Lakeland",
+          "email": "lakeland@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Chris Leininger",
+          "email": "clein@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Ioan-Tiberiu Marcut",
+          "email": "marcut@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Yevgenya Movshovich",
+          "email": "yevgenya@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Hal Schenck",
+          "email": "schenck@illinois.edu",
+          "research_interests": [
+               "Algebraic Geometry"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Jozef Skokan",
+          "email": "skokan@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Slawomir Solecki",
+          "email": "ssolecki@cornell.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "John M. Sullivan",
+          "email": "jms@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Chelsea Walton",
+          "email": "notlaw@rice.edu",
+          "research_interests": [
+               "Algebra"
+          ],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     },
+     {
+          "name": "Stephen Wolfram",
+          "email": "wolfram@illinois.edu",
+          "research_interests": [],
+          "university": "University of Illinois",
+          "department": "Department of Mathematics"
+     }
+]
