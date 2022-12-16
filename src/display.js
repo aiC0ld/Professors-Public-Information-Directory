@@ -33,6 +33,8 @@ function JsonDataDisplay() {
    {university}
    {department}
   </Box>
+  example queries: Northeastern University, CS
+                   / University of Illinois, Math
   <TableContainer component={Paper}>
    <Table sx={{ minWidth: 650 }} aria-label="simple table">
 
