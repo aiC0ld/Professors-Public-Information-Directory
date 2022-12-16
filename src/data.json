@@ -485,7 +485,7 @@
      {
           "name": "Divya Chaudhary",
           "email": "d.chaudhary@northeastern.edu",
-          "research_interests": "",
+          "research_interests": "Cloud computing, Load scheduling, Machine learning, Systems and networking",
           "university": "Northeastern University",
           "department": "CS"
      },
@@ -968,7 +968,7 @@
      {
           "name": "Fatemeh Ghoreishi",
           "email": "f.ghoreishi@northeastern.edu",
-          "research_interests": "",
+          "research_interests": "Machine\u00a0learning, Artificial intelligence, Robotics, Bayesian Statistics, Design under uncertainty, Stochastic Optimization",
           "university": "Northeastern University",
           "department": "CS"
      },
@@ -1540,13 +1540,6 @@
           "department": "CS"
      },
      {
-          "name": "Meng Luo",
-          "email": "m.luo@northeastern.edu",
-          "research_interests": "Mobile Security, Web Security, IoT Security",
-          "university": "Northeastern University",
-          "department": "CS"
-     },
-     {
           "name": "Blair MacIntyre",
           "email": "b.macintyre@northeastern.edu",
           "research_interests": "Human-computer interaction, Computer graphics, Augmented and virtual reality, Privacy",
@@ -1780,7 +1773,7 @@
      {
           "name": "Ab Mosca",
           "email": "a.mosca@northeastern.edu",
-          "research_interests": "",
+          "research_interests": "Visualization, Human-computer interaction, Data science",
           "university": "Northeastern University",
           "department": "CS"
      },
@@ -3206,9 +3199,9 @@
           "department": "Math"
      },
      {
-          "name": "Aimo Hinkkanen",
-          "email": "aimo@illinois.edu",
-          "research_interests": "Analysis, Geometry and Topology",
+          "name": "",
+          "email": "",
+          "research_interests": "",
           "university": "University of Illinois",
           "department": "Math"
      },

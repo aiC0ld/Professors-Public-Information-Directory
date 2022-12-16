@@ -1,9 +1,19 @@
+/**
+CS5001, Fall 2022
+Final Project: Professors' public information directory
+Uses React to build a website to display professors' public information.
+Utilizes Material-UI to create two text field which allow users to enter
+university and department into the UI, and create a table to render matched
+professors' public information.
+The website has been deployed online by Netlify.
+website link: https://professor-fyi.netlify.app/
+Xinyue Han
+*/
+
 import React, { useState } from 'react'
 import JsonData from './data.json'
-// import component
 import TextField from '@mui/material/TextField';
 import Table from '@mui/material/Table';
-
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
