@@ -1,6 +1,9 @@
 import React, { useState } from 'react'
 import JsonData from './data.json'
+// import component
+import TextField from '@mui/material/TextField';
 import Table from '@mui/material/Table';
+
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
@@ -8,8 +11,6 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import Box from '@mui/material/Box';
-import TextField from '@mui/material/TextField';
-import Button from '@mui/material/Button';
 
 function useInput({ type, id, label }) {
  const [value, setValue] = useState("");
@@ -34,17 +35,20 @@ function JsonDataDisplay() {
   </Box>
   <TableContainer component={Paper}>
    <Table sx={{ minWidth: 650 }} aria-label="simple table">
+
     <TableHead>
      <TableRow>
       <TableCell>Name</TableCell>
-      <TableCell align="right">Email</TableCell>
-      <TableCell align="right">Research Interests</TableCell>
-      <TableCell align="right">University</TableCell>
-      <TableCell align="right">Department</TableCell>
+      <TableCell>Email</TableCell>
+      <TableCell>Research Interests</TableCell>
+      <TableCell>University</TableCell>
+      <TableCell>Department</TableCell>
      </TableRow>
     </TableHead>
+
     <TableBody>
      {JsonData
+      // traverse data, each professor' information matches the two input values
       .filter((row) => row.department === department_input && row.university === university_input)
       .map((row) => (
        <TableRow
@@ -52,10 +56,10 @@ function JsonDataDisplay() {
         sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
        >
         <TableCell component="th" scope="row">{row.name}</TableCell>
-        <TableCell align="right">{row.email}</TableCell>
-        <TableCell align="right">{row.research_interests}</TableCell>
-        <TableCell align="right">{row.university}</TableCell>
-        <TableCell align="right">{row.department}</TableCell>
+        <TableCell>{row.email}</TableCell>
+        <TableCell>{row.research_interests}</TableCell>
+        <TableCell>{row.university}</TableCell>
+        <TableCell>{row.department}</TableCell>
        </TableRow>
       ))}
     </TableBody>
