@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
     <h1>
-    Professor FYI   // header of the website: Professor FYI
+    Professor FYI
     </h1>
       <Display />
     </div>
