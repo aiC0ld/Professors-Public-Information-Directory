@@ -1,3 +1,8 @@
+Gather worldwide professors public information and put them together in one website. First, scrapped professors' public information from official websites 
+of departments and universities. Then, built up a website using React to display these information. Deploy the website by netlify.
+The website link is https://professor-fyi.netlify.app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
